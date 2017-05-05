@@ -25,6 +25,7 @@ $blue:   #1d2731 !default;
 $teal:   #5bc0de !default;
 $pink:   #ff5b77 !default;
 $purple: #613d7c !default;
+$brown:  #342800 !default;
 
 // Grayscale and brand colors for use across Bootstrap.
 // Create grayscale
@@ -35,7 +36,7 @@ $gray-lighter:              #eceeef !default;
 $gray-lightest:             #f7f7f9 !default;
 
 // Reassign color vars to semantic color scheme
-$brand-primary:             $blue !default;
+$brand-primary:             $brown !default;
 $brand-success:             $yellow !default;
 $brand-info:                $teal !default;
 $brand-warning:             $orange !default;
